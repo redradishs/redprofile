@@ -434,7 +434,6 @@ span i {
     .taas {
         flex-direction: column; 
         text-align: center; 
-        background-color: red;
     }
 
     .title p {
@@ -446,15 +445,11 @@ span i {
     }
 
     .motor {
-        background-color: blue;
            flex-grow: 1;
            width: 100%;
            padding: 20px;
     }
 
-    .monitor {
-        background-color: violet;
-    }
 
     .motor h1 {
         font-size: 2rem;
